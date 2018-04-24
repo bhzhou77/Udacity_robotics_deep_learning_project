@@ -23,7 +23,7 @@ image in the middle is the ground truth for supervised learning, and the
 image on the right is the output of a FCN with the target being painted
 blue).
 
-<img src="FCNs_result.PNG" alt="Drawing" style="width: 1000px;"/>
+<img src="FCNs_result.png" alt="Drawing" style="width: 1000px;"/>
 
 Traditional CNNs usually have several fully connected layers at the end
 of the architecture, which will average out any spatial information
@@ -316,15 +316,15 @@ combinations of hyperparameters, and here I just list a few of them:
 
 ##### Example trial 1:
 
-<img src="train_result14.PNG" alt="Drawing" style="width: 1000px;"/>
+<img src="train_result14.png" alt="Drawing" style="width: 1000px;"/>
 
 ##### Example trial 2:
 
-<img src="train_result17.PNG" alt="Drawing" style="width: 1000px;"/>
+<img src="train_result17.png" alt="Drawing" style="width: 1000px;"/>
 
 ##### Example trial 3:
 
-<img src="train_result18.PNG" alt="Drawing" style="width: 1000px;"/>
+<img src="train_result18.png" alt="Drawing" style="width: 1000px;"/>
 
 The trial 3 is the one I am submitting.
 
